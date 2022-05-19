@@ -43,13 +43,13 @@ public class Main {
           );
           break;
         case 3:
-          System.out.println("********* REMOVE BOOK *********");
+          System.out.println("********* REMOVE MEDICINE *********");
           System.out.print("Enter the Medicine Name : ");
           s1.name = sc.nextLine();
           medicalStores.removeMedicines(s1.name);
           break;
         case 4:
-          System.out.println("********* UPDATE BOOK *********");
+          System.out.println("********* UPDATE MEDICINE *********");
           System.out.print("Enter the Medicine Name : ");
           s1.name = sc.nextLine();
           medicalStores.updateMedicine(s1.name);

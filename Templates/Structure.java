@@ -16,7 +16,7 @@ public class Structure {
     System.out.print("Enter the Quantity of Medicines : ");
     qty = sc.nextInt();
     sc.nextLine();
-    System.out.print("Enter the Weight of Medicines : ");
+    System.out.print("Enter the Power of Medicines : ");
     mg = sc.nextInt();
     sc.nextLine();
     System.out.print("Enter the Price of Medicines : ");
@@ -33,7 +33,7 @@ public class Structure {
     System.out.print("Enter the Quantity of Medicines : ");
     qty = sc.nextInt();
     sc.nextLine();
-    System.out.print("Enter the Weight of Medicines : ");
+    System.out.print("Enter the Power of Medicines : ");
     mg = sc.nextInt();
     sc.nextLine();
     System.out.print("Enter the Price of Medicines : ");
